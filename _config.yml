@@ -1,0 +1,14 @@
+# Site settings
+title: Оплата БФ
+email: bf@bf.com
+description: "Переход к оплате БФ"
+baseurl: ""
+url: "http://bf.com"
+exclude: ["node_modules", "gulpfile.js", "package.json"]
+
+# Build sttings
+markdown: redcarpet
+
+sass:
+  sass_dir: /assets/css
+  style: :nested
